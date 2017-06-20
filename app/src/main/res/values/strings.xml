@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Modulo03.P01.W03</string>
+    <string name="txtNomb">Nombre</string>
+    <string name="txtFNac">Fecha Nacimiento</string>
+    <string name="txtTlf">Teléfono</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtDesc">Descripción Contacto</string>
+
+    <string name="bSiguiente">Siguiente</string>
+
+    <string name="Confirmar">Confirmar Datos</string>
+    <string name="EdDatos">Editar datos</string>
+
+
+    <string name="ElNombre">UnNombre</string>
+    <string name="LaFecha">UnaFecha</string>
+    <string name="ElTelefono">UnTelefono</string>
+    <string name="ElEmail">UnEmail</string>
+    <string name="LaDescripcion">UnaDescripcion</string>
+</resources>
